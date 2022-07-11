@@ -1,0 +1,22 @@
+:root
+{
+    --hig:150px;
+    
+}
+.box6
+{
+    height: var(--hig);
+}
+.box{
+    height: 300px;
+}
+
+.box4{
+    height:75px;
+
+}
+.box3
+{
+    height: 20px;
+
+}
