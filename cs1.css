@@ -1,22 +1,32 @@
 :root
 {
     --hig:150px;
+    --margin:10px;
     
 }
 .box6
 {
     height: var(--hig);
+    margin-top:var(--margin);
+    margin-bottom: var(--margin);
+
 }
 .box{
     height: 300px;
+    margin-top:var(--margin);
+    margin-bottom: var(--margin);
 }
 
 .box4{
     height:75px;
+    margin-top:var(--margin);
+    margin-bottom: var(--margin);
 
 }
 .box3
 {
     height: 20px;
+    margin-top:var(--margin);
+    margin-bottom: var(--margin);
 
 }
